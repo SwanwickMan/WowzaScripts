@@ -1,0 +1,12 @@
+admin access denied
+write access denied
+restricted memory address
+not enough R.A.M.
+cannot edit R.O.M.
+cannot run file malewarebytes.exe
+higher permission level needed
+USB boot disabled
+firewall has blocked this feature
+cannot mount drive
+device type blocked
+linux.iso is not a supported file type
